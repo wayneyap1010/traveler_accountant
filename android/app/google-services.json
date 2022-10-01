@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "669263753118",
+    "project_id": "traveleraccountant",
+    "storage_bucket": "traveleraccountant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669263753118:android:e85bc6f12ae276ae65308f",
+        "android_client_info": {
+          "package_name": "com.example.travelaccountant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669263753118-3k40mfvh5ciskfmkse8a77i116l6oe39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADtDX68-RvaehrpbGVgOA0bCQWZqbeyew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669263753118-3k40mfvh5ciskfmkse8a77i116l6oe39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669263753118-njm8hqu90eq2fiku8q42jqegnefo067u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelaccountant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
